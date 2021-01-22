@@ -1,0 +1,4 @@
+needs configaparse, signaal, os and discord modules.
+
+I'd recommend using VENV with python 3 but up to you.
+
